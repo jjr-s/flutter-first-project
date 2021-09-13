@@ -1,6 +1,6 @@
-# bytebank
+# Bytebank App
 
-A new Flutter project.
+Projeto em Flutter desenvolvido com a @Alura. Aprendendo sobre as etapas do desenvolvimento em Flutter, entrada de dados (ainda sem persistência) e UI.
 
 ## Getting Started
 
